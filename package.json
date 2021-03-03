@@ -22,7 +22,7 @@
     "browserify": "^16.2.3",
     "chokidar": "^3.0.2",
     "fs-extra": "^7.0.1",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "stylus": "^0.54.5",
     "uglify-js": "^3.2.0",
     "uglifycss": "0.0.29",
